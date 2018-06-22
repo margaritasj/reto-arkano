@@ -1,0 +1,12 @@
+.row {
+    margin: 0;
+}
+
+label {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.pd-left {
+  padding-left: 1rem;
+}
